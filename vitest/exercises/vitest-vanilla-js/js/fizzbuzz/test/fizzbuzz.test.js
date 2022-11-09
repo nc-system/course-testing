@@ -15,6 +15,11 @@ describe('fizzbuzz', () => {
     expect(() => fizzbuzz()).toThrow()
   }
 
+  // Test - Should throw if not number is provided as parameter
+  it('Should throw a especific error message if not number is provided as paramater'), () => {
+    expect(() => fizzbuzz()).toThrow('Parameter provide')
+  }
+
   /*
     // Test - Should return buzz if number provided 5
     it('Should return buzz if number provided is 5'), () => {
