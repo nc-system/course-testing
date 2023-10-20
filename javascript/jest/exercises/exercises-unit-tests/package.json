@@ -1,0 +1,11 @@
+{
+  "name": "exercises-unit-tests",
+  "version": "1.0.0",
+  "description": "Exercises Unit Test",
+  "main": "index.js",
+  "author": "Andres Giraldo",
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
