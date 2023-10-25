@@ -19,7 +19,7 @@ export class MyElement extends LitElement {
       /**
        * The number of times the button has been clicked.
        */
-      count: { type: Number },
+      count: { type: Number }
     }
   }
 
