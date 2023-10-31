@@ -1,0 +1,128 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "vitest-react-js",
+			"path": "javascript/vitest/exercises/vitest-react-js"
+		},
+		{
+			"name": "vitest-react-ts",
+			"path": "javascript/vitest/exercises/vitest-react-ts"
+		},
+		{
+			"name": "vitest-vanilla-js",
+			"path": "javascript/vitest/exercises/vitest-vanilla-js"
+		},
+		{
+			"name": "vitest-vanilla-ts",
+			"path": "javascript/vitest/exercises/vitest-vanilla-ts"
+		},
+		{
+			"name": "vite-lit-js",
+			"path": "javascript/storybook/exercises/exercises-andres-giraldo/vite-lit-js"
+		},
+		{
+			"name": "vite-lit-js",
+			"path": "javascript/storybook/exercises/exercises-jenny-gomez/vite-lit-js"
+		},
+		{
+			"name": "vite-lit-js",
+			"path": "javascript/storybook/exercises/exercises-harrinson-herrera/vite-lit-js"
+		},
+		{
+			"name": "accessibility-test-vite-lit-js",
+			"path": "javascript/storybook/examples/accessibility-test-vite-lit-js"
+		},
+		{
+			"name": "coverage-test-vite-lit-ts",
+			"path": "javascript/storybook/examples/coverage-test-vite-lit-ts"
+		},
+		{
+			"name": "runner-test-vite-react-js",
+			"path": "javascript/storybook/examples/runner-test-vite-react-js"
+		},
+		{
+			"name": "runner-test-vite-lit-ts",
+			"path": "javascript/storybook/examples/runner-test-vite-lit-ts"
+		},
+		{
+			"name": "unit-test-vite-lit-js",
+			"path": "javascript/storybook/examples/unit-test-vite-lit-js"
+		},
+		{
+			"name": "runner-test-vite-react-ts",
+			"path": "javascript/storybook/examples/runner-test-vite-react-ts"
+		},
+		{
+			"name": "unit-test-vite-lit-ts",
+			"path": "javascript/storybook/examples/unit-test-vite-lit-ts"
+		},
+		{
+			"name": "coverage-test-vite-lit-js",
+			"path": "javascript/storybook/examples/coverage-test-vite-lit-js"
+		},
+		{
+			"name": "accessibility-test-vite-lit-ts",
+			"path": "javascript/storybook/examples/accessibility-test-vite-lit-ts"
+		},
+		{
+			"name": "runner-test-vite-lit-js",
+			"path": "javascript/storybook/examples/runner-test-vite-lit-js"
+		},
+		{
+			"name": "exercises-andresgiraldo-unit-tests-js",
+			"path": "javascript/jest/exercises/exercises-andresgiraldo/exercises-andresgiraldo-unit-tests-js"
+		},
+		{
+			"name": "exercises-andresgiraldo-end-to-end-test-js",
+			"path": "javascript/jest/exercises/exercises-andresgiraldo/exercises-andresgiraldo-end-to-end-test-js"
+		},
+		{
+			"name": "exercises-andresgiraldo-unit-tests-ts",
+			"path": "javascript/jest/exercises/exercises-andresgiraldo/exercises-andresgiraldo-unit-tests-ts"
+		},
+		{
+			"name": "exercises-andresgiraldo-end-to-end-test-ts",
+			"path": "javascript/jest/exercises/exercises-andresgiraldo/exercises-andresgiraldo-end-to-end-test-ts"
+		},
+		{
+			"name": "examples-test-jest-ts",
+			"path": "javascript/jest/examples/examples-test-jest-ts"
+		},
+		{
+			"name": "platzi-store-jest",
+			"path": "javascript/jest/examples/platzi-store-jest"
+		},
+		{
+			"name": "examples-test-jest-js",
+			"path": "javascript/jest/examples/examples-test-jest-js"
+		}
+	],
+	"settings": {
+		"jest.disabledWorkspaceFolders": [
+			"course-testing",
+			"vitest-react-js",
+			"vitest-react-ts",
+			"vitest-vanilla-js",
+			"vitest-vanilla-ts",
+			"accessibility-test-vite-lit-js",
+			"coverage-test-vite-lit-ts",
+			"runner-test-vite-react-js",
+			"runner-test-vite-lit-ts",
+			"unit-test-vite-lit-js",
+			"runner-test-vite-react-ts",
+			"unit-test-vite-lit-ts",
+			"coverage-test-vite-lit-js",
+			"accessibility-test-vite-lit-ts",
+			"exercises-andresgiraldo-unit-tests-js",
+			"exercises-andresgiraldo-end-to-end-test-js",
+			"exercises-andresgiraldo-unit-tests-ts",
+			"exercises-andresgiraldo-end-to-end-test-ts",
+			"examples-test-jest-ts",
+			"platzi-store-jest",
+			"examples-test-jest-js"
+		]
+	}
+}
